@@ -1,6 +1,6 @@
 '''
 Name: Bradyn Combs 
-Lab Time: 2/1/24 2:00 PM
+Lab Time: 2/1/24 2:00 PM 
 '''
 
 def right_arrow():
